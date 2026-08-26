@@ -103,7 +103,7 @@ An automation project focused on improving data cleaning and reporting workflows
 
 Tiwari Aman
 
-This repository contains my internship projects and demonstrates my practical experience in data analytics, visualization, predictive modeling, and automation.
+
 
 
 This repository contains my internship projects and demonstrates my practical experience in data analytics, visualization, predictive modeling, and automation.
